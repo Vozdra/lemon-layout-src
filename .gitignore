@@ -1,0 +1,6 @@
+/node_modules/
+/dist/
+/src/libs/
+/.git/
+/**/package-lock.json
+README.md
